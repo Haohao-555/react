@@ -1,0 +1,10 @@
+/*
+ * @Date: 2022-11-14 20:57:19
+ * @Author: 浩
+ * @LastEditors: 浩
+ * @FilePath: \react-app-ts\src\components\SideMenu\SideMenu.module.css
+ */
+ .side-menu {
+  width: 256px;
+  border: 5px solid #1976D2 !important;
+}

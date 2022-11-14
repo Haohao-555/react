@@ -4,5 +4,7 @@
  * @LastEditors: 浩
  * @FilePath: \react-app-ts\src\components\index.ts
  */
-export * from './Footer'
-export * from './Header'
+export * from "./Footer";
+export * from "./Header";
+export * from "./Carousel";
+export * from "./SideMenu";
